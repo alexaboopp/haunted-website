@@ -1,0 +1,44 @@
+@import url(https://db.onlinewebfonts.com/c/b93a3f72b48c32c14d0e0b95a5137ffc?family=Another+Danger+-+Demo);
+
+@import url(https://db.onlinewebfonts.com/c/061159ef9c2398b970d2cd5f5580f7cd?family=Gagalin);
+
+
+@font-face {
+    font-family: "Another Danger - Demo";
+    src: url("https://db.onlinewebfonts.com/t/b93a3f72b48c32c14d0e0b95a5137ffc.eot");
+    src: url("https://db.onlinewebfonts.com/t/b93a3f72b48c32c14d0e0b95a5137ffc.eot?#iefix")format("embedded-opentype"),
+    url("https://db.onlinewebfonts.com/t/b93a3f72b48c32c14d0e0b95a5137ffc.woff2")format("woff2"),
+    url("https://db.onlinewebfonts.com/t/b93a3f72b48c32c14d0e0b95a5137ffc.woff")format("woff"),
+    url("https://db.onlinewebfonts.com/t/b93a3f72b48c32c14d0e0b95a5137ffc.ttf")format("truetype"),
+    url("https://db.onlinewebfonts.com/t/b93a3f72b48c32c14d0e0b95a5137ffc.svg#Another Danger - Demo")format("svg");
+}
+
+@font-face {
+    font-family: "Gagalin";
+    src: url("https://db.onlinewebfonts.com/t/061159ef9c2398b970d2cd5f5580f7cd.eot");
+    src: url("https://db.onlinewebfonts.com/t/061159ef9c2398b970d2cd5f5580f7cd.eot?#iefix")format("embedded-opentype"),
+    url("https://db.onlinewebfonts.com/t/061159ef9c2398b970d2cd5f5580f7cd.woff2")format("woff2"),
+    url("https://db.onlinewebfonts.com/t/061159ef9c2398b970d2cd5f5580f7cd.woff")format("woff"),
+    url("https://db.onlinewebfonts.com/t/061159ef9c2398b970d2cd5f5580f7cd.ttf")format("truetype"),
+    url("https://db.onlinewebfonts.com/t/061159ef9c2398b970d2cd5f5580f7cd.svg#Gagalin")format("svg");
+}
+
+.scary-font {
+    font-family: "Another Danger - Demo";
+}
+
+.gagalin-font {
+    font-family: "Gagalin";
+}
+
+.header-text{
+    text-align: center;
+    color: white;
+    font-size: 1.5em;
+}
+
+
+
+
+
+
