@@ -91,12 +91,15 @@
         height: 100%;
     }
 
-    /* Media query for smaller screens (e.g., mobile devices) */
-    @media (max-width: 768px) {
-        .header1 {
-            padding-top: 30%; /* Adjust this value for mobile portrait view */
-        }
+
+/* Media query for iPhone in portrait mode */
+@media only screen and (max-width: 10px) and (max-height: 10px) and (-webkit-device-pixel-ratio: 3) {
+    .header1 {
+        padding-top: 20%; /* Adjust this value for iPhone portrait view */
     }
+}
+
+
 </style>
 
 
